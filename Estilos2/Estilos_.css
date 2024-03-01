@@ -1,0 +1,50 @@
+h1 {
+    font-size: 5vmax;
+    text-align: center;
+    background-image: url("../Img/Natural.jpg"); 
+    background-size: cover;
+    
+    color: white;
+    margin-top: 50px;
+    border-style: solid;
+    padding: 5px;
+    height: 200px;
+    
+}
+
+h2 {
+    text-align: center;
+    background-color:rgb(42, 45, 112);
+    color: white;
+    height: 50px;
+    margin-left: 450px;
+    margin-right: 450px;
+   
+
+}
+p {
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
+    padding:20px; 
+    background-color: rgba(0, 0, 0, 0.885);
+    margin-bottom: 50px;
+    color: rgb(217, 194, 207);
+
+}
+
+
+
+div {
+    
+    background-color: rgb(169, 11, 58);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    color: white;
+    padding:15px;
+    border: 1px solid rgb(41, 193, 180); 
+    margin-left: 450px;
+    margin-right: 450px ;
+    
+}
+
